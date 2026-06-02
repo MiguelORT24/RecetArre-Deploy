@@ -160,3 +160,110 @@ main[b-rg6hjp3r2s] {
         overflow-y: auto;
     }
 }
+/* /Pages/RecetaDetalle.razor.rz.scp.css */
+.recipe-container[b-bohkl4hb7r] {
+    background-color: #f5f5f5;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+}
+
+.recipe-header[b-bohkl4hb7r] {
+    position: relative;
+    height: 400px;
+}
+
+.recipe-image-main[b-bohkl4hb7r] {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.recipe-title-container[b-bohkl4hb7r] {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-color: rgba(194, 108, 62, 0.8);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.recipe-title[b-bohkl4hb7r] {
+    color: white;
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.recipe-body[b-bohkl4hb7r] {
+    padding: 20px;
+}
+
+.recipe-info-bar[b-bohkl4hb7r] {
+    display: flex;
+    gap: 20px;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.info-item[b-bohkl4hb7r] {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 1.2rem;
+}
+
+.info-item .icon[b-bohkl4hb7r] {
+    background-color: #e9ecef;
+    padding: 10px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #495057;
+}
+
+.recipe-content[b-bohkl4hb7r] {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 40px;
+}
+
+.left-column[b-bohkl4hb7r], .right-column[b-bohkl4hb7r] {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.ingredients-section h2[b-bohkl4hb7r], .notes-section h2[b-bohkl4hb7r], .preparation-section h2[b-bohkl4hb7r] {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #c26c3e;
+    padding-bottom: 5px;
+}
+
+.ingredients-section ul[b-bohkl4hb7r] {
+    list-style-type: none;
+    padding: 0;
+}
+
+.ingredients-section li[b-bohkl4hb7r] {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+.notes-section[b-bohkl4hb7r] {
+    margin-top: 20px;
+}
+
+.preparation-section p[b-bohkl4hb7r] {
+    white-space: pre-wrap;
+    line-height: 1.6;
+}
