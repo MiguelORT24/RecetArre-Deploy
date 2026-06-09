@@ -1,8 +1,6 @@
 {
+  "cleanUrls": true,
   "rewrites": [
-    {
-      "source": "/((?!_framework|css|favicon\\.png|icon-192\\.png|RecetArreWeb\\.styles\\.css).*)",
-      "destination": "/index.html"
-    }
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
