@@ -1,5 +1,8 @@
 {
-  "buildCommand": "dotnet publish RecetArreWeb/RecetArreWeb.csproj -c Release -o ./publish",
-  "outputDirectory": "publish/wwwroot",
-  "rewrites": [...]
+  "rewrites": [
+    {
+      "source": "/((?!_framework|css|favicon\\.png|icon-192\\.png|RecetArreWeb\\.styles\\.css).*)",
+      "destination": "/index.html"
+    }
+  ]
 }
