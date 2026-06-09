@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "RecetArreWeb",
   "resources": {
-    "hash": "sha256-w/UfBTatcaBvKRrDmg+Dwxm16YuQ6vk9Lu2NA6VtGLM=",
+    "hash": "sha256-aRBNCsFjTNcrw7fzA/ZGFYpiC9NU/tRHt774HqGVdAY=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-sn/g61GjVPhViOYQDkq1OMlk0eyS9r2Hi0qgU2o0HIU="
     },
@@ -23,7 +23,7 @@
       "Microsoft.AspNetCore.Components.Authorization.wasm": "sha256-kdB8P2tvjeVyQJNBS8M0pZniBDTc+J3S9H5GsEYYsww=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-Bi5N0CFbx3QdHAhF32iYEvQ14TjhE5rxvU6Mn/sWgF4=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-Sp0lgb7QKQeN37H4COx5IiY+O23P0I6z/cF7WWK21I8=",
-      "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-AES27cESfoDjkCIe5A4UC/3BrjRtU3TaZjfTgUOeZgc=",
+      "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-YTYnJlIbrslcLEkbjSO2lI+fPf41mFOPpUqvvXSIjtY=",
       "Microsoft.AspNetCore.Metadata.wasm": "sha256-YPbVlua8tHXC2yoEMnR/7CylfU8HqNE1pbNnhgsBBp0=",
       "Microsoft.Extensions.Configuration.wasm": "sha256-od574rRtVVRJj+24jbl8j3GdQFpxlJOpSx+pEMw1Q18=",
       "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-XR+WUfg8LtnrwdXFBnV+qO3ROyp6cYCfl1AZajIAheM=",
@@ -94,7 +94,7 @@
       "System.wasm": "sha256-8Pp6fgXAWPWbO6RPnpbyoWOPbKPaSB8zkeYJhr4ad4g=",
       "mscorlib.wasm": "sha256-nwUFiGto3rdrvuUJBBRamt1M/LBWVV0AhXYlLkKkC+Q=",
       "System.Private.CoreLib.wasm": "sha256-PYtaoXia7+w86YYGaGWK5yNLtvoiFCH0QrWg3GP9S/w=",
-      "RecetArreWeb.wasm": "sha256-gZGj9eiRfW5qvh5PpdV9QLNyG5n3koaQf9F39qjo5G0="
+      "RecetArreWeb.wasm": "sha256-cRTXcyCY9/OwIAkRTCAMH91M7RRpXap4svfrHzADDn8="
     }
   },
   "cacheBootResources": true,
