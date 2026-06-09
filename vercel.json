@@ -1,0 +1,5 @@
+{
+  "buildCommand": "dotnet publish RecetArreWeb/RecetArreWeb.csproj -c Release -o ./publish",
+  "outputDirectory": "publish/wwwroot",
+  "rewrites": [...]
+}
